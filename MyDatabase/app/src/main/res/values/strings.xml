@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Database</string>
+    <string name="action_settings">settings</string>
+    <string name="ContactsInfo">Contacts Info</string>
+    <string name="contactName">Name</string>
+    <string name="contactNumber">number</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="contactID">Id</string>
+    <string name="addContact">AddContact</string>
+    <string name="deleteContact">DeleteContact</string>
+    <string name="updateContact">UpdateContact</string>
+    <string name="selectContact">SelectContact</string>
+    <string name="inputID">ID</string>
+    <string name="inputName">Name</string>
+    <string name="inputNumber">contactNumber</string>
+    <string name="submitButton">Submit</string>
+</resources>

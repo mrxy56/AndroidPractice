@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MyGoogleMap</string>
+
+    <string name="hello">Welcome to Singapore!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_spot1">Spot1</string>
+    <string name="name1">Marina Bay</string>
+    <string name="intro1">Marina Bay is a bay near Central
+        Area in the southern part of Singapore, and lies to
+        the east of the Downtown Core. The area surrounding
+        the bay itself, also called Marina Bay, is a 360
+        hectare extension to the adjacent Central Business District.</string>
+    <string name="title_activity_spot2">Spot2</string>
+    <string name="name2">Chinatown</string>
+    <string name="intro2">Singapore\'s Chinatown is an ethnic
+        neighbourhood featuring distinctly Chinese cultural
+        elements and a historically concentrated ethnic Chinese
+        population. Chinatown is located within the larger
+        district of Outram.As the largest ethnic group in
+        Singapore is Chinese, Chinatown is considerably
+        less of an enclave than it once was.</string>
+    <string name="title_activity_spot3">Spot3</string>
+    <string name="name3">The Night Safari</string>
+    <string name="intro3">The Night Safari is the world\'s
+        first nocturnal zoo and is one of the most popular
+        tourist attractions in Singapore.The concept of a
+        nocturnal park in Singapore was suggested in the
+        1980s by the former executive chairman of the
+        Singapore Zoo, Dr Ong Swee Law. Constructed at a
+        cost of 63 million, the Night Safari was officially
+        opened on 26 May 1994 and occupies 35 hectares (86 acres)
+        of secondary rainforest adjacent to the Singapore Zoo and
+        Upper Seletar Reservoir.</string>
+    <string name="title_activity_spot4">Spot4</string>
+    <string name="name4">The East Coast Park</string>
+    <string name="intro4">The East Coast Park
+        is a beach park located on the southeastern
+        coast of Singapore. It was opened in the 1970s,
+        when the government completed reclaiming land off
+        the coast at Katong which extends from Changi to
+        Tanjong Rhu. It also serves various key neighborhood
+        communities such as Tanjong Rhu, Marine Parade</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google">Google Map</string>
+    <string name="title_activity_maps_activity2">MapsActivity2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_maps_activity3">MapsActivity3</string>
+    <string name="title_activity_maps_activity4">MapsActivity4</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <color name="myBlack">#000</color>
+    
+</resources>
